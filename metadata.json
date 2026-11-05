@@ -1,0 +1,6 @@
+{
+  "name": "Omni AI — Next-Generation Assistant",
+  "description": "A futuristic, intelligent AI assistant featuring starlight sparkle explosions, center-origin hyperspace intro, 4 Pro AI engines, real-time Gemini streaming, document analysis, study & coding workspaces, and multilingual translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
